@@ -1,1 +1,2 @@
-# twizzbrew install git
+# twizz
+brew install git
