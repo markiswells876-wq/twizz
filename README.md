@@ -1,2 +1,2 @@
 # twizz
-git --version
+brew install git
